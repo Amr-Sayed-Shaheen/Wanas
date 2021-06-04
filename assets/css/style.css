@@ -4157,7 +4157,14 @@ font-size: small;
 # other
 --------------------------------------------------------------------------------------------------------------*/
 
-
+.profile-edit-btn1 {
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #d4d4d4;
+  padding: 4%;
+  font-weight: 600;
+  color: #6c757d;
+}
 
 
 
